@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import language from "./multilanguage/language.json";
 
 function App() {
