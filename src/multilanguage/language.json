@@ -1,0 +1,20 @@
+{
+    "english": {
+        "name": "Shubham Kumar",
+        "about": "About",
+        "Description": "I am shubham from the Ranchi currently working in the software company in hyderabad",
+        "familyInfo": "In my family I live with sister mother father and grand mother"
+    },
+    "hindi": {
+        "name": "शुभम कुमार",
+        "about": "के बारे में",
+        "Description": "मैं रांची से शुभम हूं और वर्तमान में हैदराबाद में सॉफ्टवेयर कंपनी में काम करता हूं",
+        "familyInfo": "मेरे परिवार में मैं बहन, माँ, पिताजी और दादी माँ के साथ रहता हूँ"
+    },
+    "russian": {
+        "name": "Шубхам Кумар",
+        "about": "Об этом",
+        "Description": "Он играл с Джоном Джонсом и Уинстоном в Нью-Йорке. В Сан-Франциско Кейнс Кейдж.",
+        "familyInfo": "В моей семье я живу с сестрой, мамой, отцом и бабушкой."
+    }
+}
